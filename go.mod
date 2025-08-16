@@ -1,4 +1,4 @@
-module fps-demo
+module fps
 
 go 1.21
 
